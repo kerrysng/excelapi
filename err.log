@@ -1,0 +1,1749 @@
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\express\lib\response.js:170:12)
+    at pr.then (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:1213:35)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\express\lib\response.js:170:12)
+    at pr.then (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:1213:35)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: PORT is not defined
+    at Server.app.listen (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:35:45)
+    at Object.onceWrapper (events.js:286:20)
+    at Server.emit (events.js:203:15)
+    at Server.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\@pm2\io\build\main\metrics\httpMetrics.js:152:37)
+    at emitListeningNT (net.js:1314:10)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+TypeError: Cannot set property 'log' of undefined
+    at loggingMiddleware (C:\Users\ksng\Desktop\development\excel-pdf-api\node_modules\pino-http\logger.js:100:23)
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:17:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:12)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:16
+const logger = prettyLogger{ level: process.env.LOG_LEVEL || 'info' });
+                           ^
+
+SyntaxError: Unexpected token {
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:11)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:11)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+ReferenceError: basicPinoLogger is not defined
+    at Object.<anonymous> (C:\Users\ksng\Desktop\development\excel-pdf-api\index1.js:10:11)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\ksng\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Error: bind EADDRINUSE null:3000
+    at listenOnMasterHandle (net.js:1347:16)
+    at shared (internal/cluster/child.js:120:3)
+    at Worker.send (internal/cluster/child.js:91:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:203:15)
+    at emit (internal/child_process.js:832:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)

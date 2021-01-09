@@ -1,0 +1,28 @@
+{
+  "name": "excel-json-api",
+  "version": "1.0.0",
+  "description": "Excel JS for Eclipse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index1.js"
+  },
+  "author": "TPH Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-timeout": "^1.9.0",
+    "excel": "^1.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "express-pino-logger": "^5.0.0",
+    "expressjs": "^1.0.1",
+    "node-xlsx": "^0.15.0",
+    "nodemon": "^2.0.3",
+    "pino": "^6.8.0",
+    "xlsx-populate": "^1.21.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^4.3.0"
+  }
+}
